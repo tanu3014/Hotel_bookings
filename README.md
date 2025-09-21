@@ -1,4 +1,5 @@
 🏨 **Hotel Bookings Analysis**
+
 📌 **Project Overview**
 
 This project performs Exploratory Data Analysis (EDA) on a hotel bookings dataset to identify key trends, cancellation patterns, customer behavior, and provide actionable recommendations for hotel management.
@@ -13,7 +14,7 @@ Impact of lead time, day of week, and special requests
 
 Guest segmentation (domestic vs international, customer types)
 
-📊** Dataset**
+📊**Dataset**
 
 Source: Based on public hotel booking dataset
 
